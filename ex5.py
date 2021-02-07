@@ -136,4 +136,4 @@ class MST:
 M = MST(2)
 M.perceptron_algorithm()
 acc = M.evaluate()
-print(acc)
+# accuracy is 0.4196076689369235

@@ -88,7 +88,7 @@
       <workItem from="1612456253527" duration="614000" />
       <workItem from="1612460921975" duration="2050000" />
       <workItem from="1612530559719" duration="1903000" />
-      <workItem from="1612613989924" duration="38084000" />
+      <workItem from="1612613989924" duration="38876000" />
     </task>
     <servers />
   </component>
@@ -107,6 +107,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Chu_Liu_Edmonds_algorithm_py$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1612727925137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chu_Liu_Edmonds_algorithm_py$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1612728173294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
